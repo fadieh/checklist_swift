@@ -9,6 +9,7 @@ ___
 - Getting to grips with using TableViews and Navigation Controllers
 - Built a foundation in recycling cells in a TableView to display data.
 - Understood the data source as the link between data and the table view.
+- Use delegate duties: UITableViewDataSource and UITableViewDelegate helpers for the table view.
 
 #### To Do
 ___
