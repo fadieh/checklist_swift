@@ -3,8 +3,14 @@
 
 #### Learning outcomes
 
-- To fully understand using TableViews and Navigation Controllers
-- To understand how to recycle cells in a TableView to display data.
+- Get to grips with using TableViews and Navigation Controllers
+- Build a foundation in recycling cells in a TableView to display data.
+- Understand the data source as the link between data and the table view.
+
+#### To Do
+
+- TDD with XCTest
+- Develop the design style.
 
 #### Technologies Used
 
